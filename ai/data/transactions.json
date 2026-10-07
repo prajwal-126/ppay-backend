@@ -1,0 +1,38 @@
+[
+  {
+    "merchant": "Swiggy",
+    "category": "Food"
+  },
+  {
+    "merchant": "Zomato",
+    "category": "Food"
+  },
+  {
+    "merchant": "Uber",
+    "category": "Travel"
+  },
+  {
+    "merchant": "Ola",
+    "category": "Travel"
+  },
+  {
+    "merchant": "Amazon",
+    "category": "Shopping"
+  },
+  {
+    "merchant": "Flipkart",
+    "category": "Shopping"
+  },
+  {
+    "merchant": "Airtel",
+    "category": "Bills"
+  },
+  {
+    "merchant": "Jio",
+    "category": "Bills"
+  },
+  {
+    "merchant": "Rapido",
+    "category": "Travel"
+  }
+]
